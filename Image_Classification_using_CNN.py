@@ -15,8 +15,8 @@ import matplotlib.pyplot as plt
 # In[ ]:
 
 
-os.environ['KAGGLE_USERNAME'] = 'anirudhnsrivatsa' 
-os.environ['KAGGLE_KEY'] = 'a6e4b78dfab7f40191b22329f85cd5b0'  
+os.environ['KAGGLE_USERNAME'] = 'Your_username' 
+os.environ['KAGGLE_KEY'] = 'Your_Key'  
 
 # Download and extract the dataset
 # Download and extract the dataset
